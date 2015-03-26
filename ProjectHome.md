@@ -1,0 +1,1 @@
+La idea es desarrollar un software que sea libre para aprender a usar herramientas como PHP5, Prototype, Ajax, etc.
